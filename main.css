@@ -1,2 +1,143 @@
 /* ADD YOUR STYLES HERE */
-<div class="relative">
+
+/*.box {
+height: 15px;
+width:  15px;
+background-color: red;
+border: ;
+padding: ;
+margin: ;
+box-sizing: border box;
+}
+*/
+.DataTable {
+  	border-top: 1px solid black;
+  	border-bottom: 1px solid black;
+  	border-right:1px solid black;
+  	border-left: 1px solid black;
+  	padding: 20;
+  	background-color: CornflowerBlue;
+  	font-size: 18px;
+  	margin-left: 20px;
+
+}
+
+td {
+	width: 150px;
+	border: 1px solid black;
+}
+
+table.instruction-answer td {
+
+	background-color: DarkOliveGreen;
+}
+
+
+.cell {
+	border: 1px solid black;
+}
+
+tr .stats-color td {
+
+	background-color: Aquamarine;
+
+}
+
+.big-number {
+	font-size: 100px;
+	margin: auto;
+	/*text-align: center;*/ 
+
+}
+.font-center {
+    text-align: center;
+    background-color: DarkGoldenRod;
+}
+
+.bargraph {
+	background-color: DeepSkyBlue;
+	padding: 5px;
+
+}
+.bargraph-table {
+
+	width: 800px;
+
+}
+
+.bargraph-table th {
+	width: 15%;
+}
+
+.bargraph-table td {
+	border: none;
+}
+
+.bargraph.javascript {
+
+	background-color: orange;
+}
+
+
+/*.lightbox {
+	position: fixed;
+	top: 0;
+	left:0;
+	right: 0;
+	bottom:0;
+	background-color: black;
+	z-index: 1001;
+	-moz-opacity: 0.8;
+	opacity: .80;
+
+}
+
+.lightbox-content {
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	right: 25%;
+	bottom: 25%;
+	background-color: white;
+	z-index: :1002;
+	overflow:auto;
+}*/
+
+.media-block img {
+	float: left;
+	margin-right: 10px; 
+	position: left;
+
+}
+
+/*.clearfix img {
+	margin: 10px;
+	position: absolute;
+}*/
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
